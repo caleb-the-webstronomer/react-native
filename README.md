@@ -1,5 +1,3 @@
-# Caleb the Webstronomer React Native Projects
+# Kaleb is a React Native App by Caleb the Webstronomer with Expo cli
 
-### Branch List
-
-- kaleb
+### Features
