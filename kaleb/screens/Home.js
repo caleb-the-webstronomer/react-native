@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff"
   },
   contentContainer: {
-    paddingTop: 30
+    paddingTop: 120
   },
   welcomeContainer: {
     alignItems: "center",
@@ -45,8 +45,8 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   welcomeImage: {
-    width: 100,
-    height: 80,
+    width: 200,
+    height: 180,
     resizeMode: "contain",
     marginTop: 3,
     marginLeft: -10
